@@ -1,0 +1,8 @@
+;# CanaryH2Databse - Canary Plugin Configuration File
+;# Copyright © 2016 CanaryModTeam
+;# Licensed under the BSD 3-Clause License
+
+name=CanaryH2Database
+main-class=net.canarymod.database.h2.H2Database
+database-name=h2
+version=1.0
